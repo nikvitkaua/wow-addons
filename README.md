@@ -1,1 +1,42 @@
-# wow-addons
+Цей репозиторій містить колекцію адонів для World of Warcraft (версія 3.3.5a). Нижче наведені короткі описи кожного адону українською, щоб швидко орієнтуватися в їх призначенні.
+
+**Адони**
+
+- [AtlasLoot](AtlasLoot/): Дозволяє переглядати списки луту з боссів, рейдів і підземель, швидкий пошук предметів та інформацію про їх джерела. Корисний для планування фарму та перевірки можливих нагород.
+- [AtlasLootFu](AtlasLootFu/): Інтеграція AtlasLoot з FuBar (панелью доповнень) для швидкого доступу до інтерфейсу AtlasLoot.
+- [AtlasLoot_BurningCrusade](AtlasLoot_BurningCrusade/): Модуль AtlasLoot з даними про предмети та боси з доповнення Burning Crusade.
+- [AtlasLoot_Crafting](AtlasLoot_Crafting/): Модуль AtlasLoot для перегляду рецептів і крафтових предметів.
+- [AtlasLoot_OriginalWoW](AtlasLoot_OriginalWoW/): Модуль AtlasLoot з даними для оригінального WoW (vanilla).
+- [AtlasLoot_WorldEvents](AtlasLoot_WorldEvents/): Додаткові списки предметів, пов'язані з подіями світу (World Events).
+- [AtlasLoot_WrathoftheLichKing](AtlasLoot_WrathoftheLichKing/): Модуль AtlasLoot з даними для доповнення Wrath of the Lich King.
+- [Auctionator](Auctionator/): Зручний інтерфейс для роботи з аукціоном — пошук, фільтрація, простіший продаж і купівля предметів.
+- [AuctionatorMiniFeatures](AuctionatorMiniFeatures/): Невеликі доповнення та поліпшення функціоналу Auctionator.
+- [Bagnon](Bagnon/): Об'єднує всі мішки та банкінг в один інтерфейс із сортуванням, фільтрами та зручним переглядом інвентаря.
+- [Bagnon_Config](Bagnon_Config/): Налаштування та опції для модуля Bagnon.
+- [Bagnon_Forever](Bagnon_Forever/): Розширення/мод для Bagnon з додатковими фічами або підтримкою збереження даних.
+- [Bagnon_GuildBank](Bagnon_GuildBank/): Модуль Bagnon для перегляду та управління гільдійним банком.
+- [Bagnon_Tooltips](Bagnon_Tooltips/): Додає додаткову інформацію в підказки предметів в Bagnon.
+- [Bagnon_VoidStorage](Bagnon_VoidStorage/): Підтримка перегляду Void Storage через інтерфейс Bagnon.
+- [Details](Details/): Потужний реальний час лог боїв (damage/healing meter) з детальною статистикою та розширеннями.
+- [Details_3DModelsPaths](Details_3DModelsPaths/): Розширення Details для відображення 3D-моделей або шляхів до них.
+- [Details_ChartViewer](Details_ChartViewer/): Відтворення графіків та діаграм на базі даних Details.
+- [Details_DataStorage](Details_DataStorage/): Зберігання та менеджмент журналів боїв для Details.
+- [Details_DeathGraphs](Details_DeathGraphs/): Візуалізація смертей і пов'язаних подій під час бою.
+- [Details_EncounterDetails](Details_EncounterDetails/): Додаткова інформація про енкаунтери та події бою.
+- [Details_SunderCount](Details_SunderCount/): Лічильник специфічних дебафів/станів (наприклад, Sunder Armour).
+- [Details_TimeLine](Details_TimeLine/): Хронологічне відображення подій бою.
+- [Details_TinyThreat](Details_TinyThreat/): Легка інтеграція або відображення загрози (threat) в межах Details.
+- [GearScoreLite](GearScoreLite/): Легке відображення GearScore/оцінки екіпірування гравців.
+- [HealBot](HealBot/): Панель для автоматизованого таргет-хілу з налаштовуваними кнопками та макросами — популярний адон для хілерів.
+- [NotPlater-3.3.5](NotPlater-3.3.5/): Можлива форк/версія адону Plater або альтернативи для nameplates, адаптована під 3.3.5.
+- [OmniCC](OmniCC/): Відображає числові таймери на кулдауна предметів/спелів поверх іконок.
+- [OmniCC_Config](OmniCC_Config/): Налаштування для OmniCC.
+- [Overachiever](Overachiever/): Аддон для досягнень, що додає підказки, відстеження і поліпшення інтерфейсу досягнень.
+- [Overachiever_Tabs](Overachiever_Tabs/): Додаткові вкладки/інтерфейсні розширення для Overachiever.
+- [Overachiever_Trade](Overachiever_Trade/): Модуль Overachiever, пов'язаний з торговими/професійними досягненнями.
+- [Postal](Postal/): Полегшує роботу з поштою — масові операції, швидка відправка і отримання листів.
+- [Questie-335](Questie-335/): Аддон для відображення квестових маркерів на карті/мінімапі для версії 3.3.5 (Questie адаптований для 3.x).
+- [Scrap](Scrap/): Автоматично розпродає/позначає непотрібні або низькоцінні предмети, керовані фільтрами.
+- [Scrap_Merchant](Scrap_Merchant/): Інтеграція Scrap з інтерфейсом торговця для автоматичного продажу сміття.
+- [Scrap_Options](Scrap_Options/): Налаштування і опції для Scrap.
+- [TitanHealBot](TitanHealBot/): Інтеграція Titan Panel з HealBot або адаптація для зручного відображення стану хіл-адону.
