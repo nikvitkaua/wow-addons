@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: Scrap
+## Notes: Allows you to sell every item you do not need with a single click at the merchant.
+
+## Author: João Cardoso (Jaliborc)
+## License: GNU General Public License Version 3
+## Category: Inventory
+
+## SavedVariablesPerCharacter: Scrap_List
+## SavedVariables: Scrap_AutoSell, Scrap_Tutorials
+
+Scrap.lua

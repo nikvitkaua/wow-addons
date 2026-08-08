@@ -1,0 +1,18 @@
+## Interface: 30300
+## Title: Scrap Options
+## Notes: Load on demand options dropdown for Scrap
+
+## Author: João Cardoso (Jaliborc)
+## License: GNU General Public License Version 3
+## Category: Inventory
+
+## OptionalDeps: LibStub, EmbedHandler-1.0, CustomTutorials-1.0
+## Dependencies: Scrap
+## LoadOnDemand: 1
+
+Libs\LibStub\LibStub.lua
+Libs\EmbedHandler-1.0\EmbedHandler-1.0.lua
+Libs\CustomTutorials-1.0\CustomTutorials-1.0.lua
+
+Localization.lua
+Scrap_Options.lua

@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: Scrap Merchant
+## Notes: Load on demand merchant button for Scrap
+
+## Author: João Cardoso (Jaliborc)
+## License: GNU General Public License Version 3
+## Category: Inventory
+
+## Dependencies: Scrap
+## LoadOnDemand: 1
+
+Localization.lua
+Scrap_Merchant.lua
